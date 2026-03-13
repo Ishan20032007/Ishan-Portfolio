@@ -1,4 +1,4 @@
-# Ishan Kumar — Portfolio
+# Ishan — Portfolio
 
 A clean, professional portfolio website ready to deploy on GitHub Pages, Vercel, or Netlify.
 

@@ -1,1 +1,3 @@
-Replace this file with your photo. Supported: photo.jpg or photo.png
+Replace these files with your certificate images:
+  cert-dsa-cpp.jpg  → Your DSA with C++ certificate image
+  cert-cpp-prog.jpg → Your Programming in C++ certificate image
